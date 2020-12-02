@@ -16,7 +16,7 @@ I have a background in business and cooking as a professional chef and am excite
 
 I love to code and am looking forward to working, learning and growing as a developer.
 
-Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/><br/>
+Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/><br/><br/>
 
 ### Languages and Tools:
 
@@ -31,16 +31,16 @@ Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinot
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
-<br/>
+<br/><br/><br/>
 
-## Current Projects:
+### Current Projects:
 
 #Chef Available!? - I am currently working on a web application to connect chefs with employers and vice versa.
 A fun little project mostly for learning purposes :sunglasses:
 
 [link to Front-End repo!](https://github.com/RDOToole89/chef-available-client)<br/><br/>
 [link to Back-End repo!](https://github.com/RDOToole89/chef-available-server)<br/><br/>
-[Chef Available!? on Netlify](https://github.com/RDOToole89/chef-available-server)<br/>
+[Chef Available!? on Netlify](https://github.com/RDOToole89/chef-available-server)<br/><br/><br/>
 
 
 
