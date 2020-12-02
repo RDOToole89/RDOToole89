@@ -40,7 +40,7 @@ A fun little project mostly for learning purposes :sunglasses:
 
 [link to Front-End repo!](https://github.com/RDOToole89/chef-available-client)<br/><br/>
 [link to Back-End repo!](https://github.com/RDOToole89/chef-available-server)<br/><br/>
-[Chef Available!? on Netlify](https://github.com/RDOToole89/chef-available-server)<br/><br/>
+[Chef Available!? on Netlify](https://zen-hamilton-949754.netlify.app/)<br/><br/>
 
 
 
