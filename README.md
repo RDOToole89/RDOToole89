@@ -16,7 +16,7 @@ I have a background in business and cooking as a professional chef and am excite
 
 I love to code and am looking forward to working, learning and growing as a developer.
 
-Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/><br/><br/>
+Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/>
 
 ### Languages and Tools:
 
