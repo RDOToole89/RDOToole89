@@ -35,7 +35,7 @@ Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinot
 
 ### Current Projects:
 
-#Chef Available!? - I am currently working on a web application to connect chefs with employers and vice versa.
+#Chef Available!? - I am currently working on a web application to connect chefs with employers and vice versa.<br/>
 A fun little project mostly for learning purposes :sunglasses:
 
 [link to Front-End repo!](https://github.com/RDOToole89/chef-available-client)<br/><br/>
