@@ -6,7 +6,9 @@ After a year of traveling the world :earth_asia: I had come to the conclusion it
 From a young age I dabbled with HTML, CSS and a little bit of Python here and there but life took me in a different direction.
 
 In March of this year I started to truly invest myself in learning how to code and immediately fell in love with it. I love solving
-problems and always having something new to learn. I have always had a strong affinity towards technology and computers and this Oktober I decided 
+problems and always having something new to learn.
+
+I have always had a strong affinity towards technology and computers and this Oktober I decided 
 to pull the trigger and join the Codaisseur Coding Academy to speed up my learning process. I am currently in the final stages of this intense
 bootcamp style coding school and working on some projects for my portfolio. 
 
