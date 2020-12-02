@@ -1,18 +1,20 @@
 ### Hi there 👋,
 
-I am Roibin O'Toole, a junior full-stack developer.
+I am Roibin O'Toole, a junior full-stack developer. :computer:
 
-After a year of traveling the world I had come to the conclusion it was time to switch my life around and branch into a new career. 
-From a young age I dabbled with HTML, CSS and a little bit of Python here and there but life took me into a different direction.
+After a year of traveling the world :earth_asia: I had come to the conclusion it was time to switch my life around and branch into a new career. 
+From a young age I dabbled with HTML, CSS and a little bit of Python here and there but life took me in a different direction.
 
 In March of this year I started to truly invest myself in learning how to code and immediately fell in love with it. I love solving
 problems and always having something new to learn. I have always had a strong affinity towards technology and computers and this Oktober I decided 
 to pull the trigger and join the Codaisseur Coding Academy to speed up my learning process. I am currently in the final stages of this intense
 bootcamp style coding school and working on some projects for my portfolio. 
 
-I have a background in business and cooking as a professional chef and am excited to be on this journey.
+I have a background in business and cooking as a professional chef and am excited to be on this journey. 🚀
 
-I love to code and am looking forward to working and learning as a developer.
+I love to code and am looking forward to working, learning and growing as a developer.
+
+Feel free to reach out to me on: [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/><br/>
 
 ### Languages and Tools:
 
@@ -30,11 +32,12 @@ I love to code and am looking forward to working and learning as a developer.
 
 ## Current Projects:
 
-#Chef Available - I am currently working on a web application to connect chefs with employers and vice versa. 
+#Chef Available!? - I am currently working on a web application to connect chefs with employers and vice versa.
+A fun little project mostly for learning purposes :sunglasses:
 
-[link to FrontEnd repo!](https://github.com/RDOToole89/chef-available-client)<br/>
-[link to BackEnd repo!](https://github.com/RDOToole89/chef-available-server)<br/>
-[Chef Available on Netlify](https://github.com/RDOToole89/chef-available-server)<br/>
+[link to Front-End repo!](https://github.com/RDOToole89/chef-available-client)<br/><br/>
+[link to Back-End repo!](https://github.com/RDOToole89/chef-available-server)<br/><br/>
+[Chef Available!? on Netlify](https://github.com/RDOToole89/chef-available-server)<br/>
 
 
 
