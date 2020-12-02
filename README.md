@@ -32,9 +32,9 @@ I love to code and am looking forward to working and learning as a developer.
 
 #Chef Available - I am currently working on a web application to connect chefs with employers and vice versa. 
 
-[link to FrontEnd repo!](https://github.com/RDOToole89/chef-available-client)
-[link to BackEnd repo!](https://github.com/RDOToole89/chef-available-server)
-[Chef Available on Netlify](https://github.com/RDOToole89/chef-available-server)
+[link to FrontEnd repo!](https://github.com/RDOToole89/chef-available-client)<br/>
+[link to BackEnd repo!](https://github.com/RDOToole89/chef-available-server)<br/>
+[Chef Available on Netlify](https://github.com/RDOToole89/chef-available-server)<br/>
 
 
 
