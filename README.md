@@ -7,9 +7,6 @@ Last December I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week i
 After a year of traveling the world :earth_asia: I had come to the conclusion it was time to switch my life around and branch into a new career. 
 From a young age I dabbled with HTML, CSS and a little bit of programming here and there but life took me in a different direction.
 
-In March of this year I started to truly invest myself in learning how to code and immediately fell in love with it. I love solving
-problems and always having something new to learn.
-
 I have always had a strong affinity towards technology and computers and after a few months of self-study I decided to pull the trigger and join the Codaisseur Coding Academy to speed up my learning process. Now as a graduate, I am currently actively looking for an opportunity where I can continue to become a better developer.
 
 I love to code and am looking forward to working, learning and growing as a developer.
