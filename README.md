@@ -9,10 +9,6 @@ From a young age I dabbled with HTML, CSS and a little bit of programming here a
 
 I have always had a strong affinity towards technology and computers and after a few months of self-study I decided to pull the trigger and join the Codaisseur Coding Academy to speed up my learning process. Now as a graduate, I am currently actively looking for an opportunity where I can continue to become a better developer.
 
-I love to code and am looking forward to working, learning and growing as a developer.
-
-I am excited to be on this journey. 🚀
-
 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/>
 
 ### Languages and Tools:
