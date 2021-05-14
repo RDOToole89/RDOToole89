@@ -2,13 +2,6 @@
 
 ### Thanks for visiting my Github profile! ###
 
-Last December I graduated from [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
-
-After a year of traveling the world :earth_asia: I had come to the conclusion it was time to switch my life around and branch into a new career. 
-From a young age I dabbled with HTML, CSS and a little bit of programming here and there but life took me in a different direction.
-
-I have always had a strong affinity towards technology and computers and after a few months of self-study I decided to pull the trigger and join the Codaisseur Coding Academy to speed up my learning process. Now as a graduate, I am currently actively looking for an opportunity where I can continue to become a better developer.
-
 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roibinotoole/)<br/>
 
 ### Languages and Tools:
