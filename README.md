@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/rob_dev"><img src="https://api.daily.dev/devcards/a3bb6ae15be14fb48c74c4b3c5769039.png?r=3a4" width="400" alt="Roibin O'Toole's Dev Card"/></a>
+<a href="https://app.daily.dev/rob_dev"><img src="https://api.daily.dev/devcards/a3bb6ae15be14fb48c74c4b3c5769039.png?r=3a4" width="100" alt="Roibin O'Toole's Dev Card"/></a>
 
 <!--
 **RDOToole89/RDOToole89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
